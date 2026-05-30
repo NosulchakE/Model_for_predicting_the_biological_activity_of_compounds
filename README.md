@@ -4,7 +4,7 @@
 
 train.csv, test.csv, sample_submission.csv — исходные данные
 
-solution.ipynb — код решения
+solution.ipynb. solution.py — код решения
 
 submission.csv — финальные предсказания
 
